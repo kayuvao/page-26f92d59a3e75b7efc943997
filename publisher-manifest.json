@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e380bea81bfafdd0cf6ccdac",
+  "owner": "kayuvao",
+  "repo": "page-26f92d59a3e75b7efc943997",
+  "title": "小柴",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "26f92d59a3e75b7efc943997",
+      "a": "小柴",
+      "b": "稳定全球clash加速器",
+      "entity": "小柴",
+      "brand": "小柴",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c000c40c1889cddadf36646b0bfb75072a5b4117a3e143faa5565a77347b5b7b",
+      "content": {
+        "primary_entity": "小柴",
+        "keyword1": "小柴",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "Clash、Clash Verge、ClashX、Stash 等客户端可按设备系统分别选择。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连上小柴",
+          "AI_DESCRIPTION": "，小柴提供基础版、旗舰版和团队版三档套餐，分别对应每月 100GB、300GB 和 1000GB 流量，可同时在线 3 台、5 台和 20 台设备。旗舰版增加 IPLC 专线游戏加速与优先工单支持，团队版提供 VIP 高带宽节点和定制路由。选择套餐时可先确认常用设备数量和每月所需流量，再决定按年付还是按月付，年付方案在价格上更为节省。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量到订阅周期，小柴的套餐设计覆盖个人与团队场景。",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版内置 IPLC 专线游戏加速与 7x24 优先工单，团队版提供 VIP 专属高带宽节点和定制路由支持。",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，长期使用可选年付方案。",
+          "AI_FEATURE_TITLE_1": "三档流量与设备",
+          "AI_FEATURE_TITLE_2": "专线与优先支持",
+          "AI_FEATURE_TITLE_3": "年付更省费用",
+          "AI_GUIDE_INTRO": "先确认设备数量与流量需求，再按对应客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "配置订阅步骤",
+          "AI_HERO_INTRO": "小柴面向需要稳定连接的用户，提供手机、电脑和路由器等多设备订阅。选择套餐时先看每月流量与同时在线设备数，基础版适合轻量使用，旗舰版适合多设备与游戏加速，团队版适合多人共享。",
+          "AI_HERO_SUBTITLE": "小柴稳定全球连接",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案更省",
+          "AI_PLANS_INTRO": "基础版适合轻量浏览，旗舰版兼顾多设备与游戏，团队版面向多人共享场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看所选套餐支持的在线设备数与节点类型。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，在对应客户端中按文档导入配置并选择节点。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "小柴稳定全球连接",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小柴基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备，并配备IPLC专线节点，适合对流媒体和游戏延迟有更高要求的用户。",
+          "AI_FAQ_QUESTION_2": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月1000GB流量、支持20台设备同时在线，并提供VIP专属高带宽节点和企业定制路由，适合多人协作或需要统一管理多终端的团队。",
+          "AI_FAQ_QUESTION_3": "年付比月付能节省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付¥15，年付¥150；旗舰版月付¥35，年付¥350；团队版月付¥85，年付¥850。年付相当于按十个月计费，适合长期使用。",
+          "AI_FAQ_QUESTION_4": "订阅在小柴不同客户端之间能通用吗？",
+          "AI_FAQ_ANSWER_4": "同一订阅可在支持的小柴客户端中配合使用，但设备总数受套餐上限限制。建议先在主用设备上完成配置，再按需添加其他设备。",
+          "AI_FAQ_QUESTION_5": "超出套餐流量后会怎样？",
+          "AI_FAQ_ANSWER_5": "超出当月流量后连接速度可能受限。可以根据实际用量提前升级到更高档位，或等待下个计费周期流量重置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "setwr.cn",
+    "host": "setwr.cn"
+  },
+  "file_hashes": {
+    "index.html": "da0f49cd42f665f7b4aad41086cda5a7d9e84ea18aaf30dc083e759f200230ae",
+    "sitemap.xml": "2a5164617fde09a11ffc8af050c5f1831d88027e4ada1291960660fc5fc7f882",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "45202ffeaa44a8d362bff721fd36af39141a4d24f38db53e5529f69f6f033df5",
+    "robots.txt": "41f5e21c859ff00f7c6ec072ac164668cc28354f6f34a6d7d8453fffee886715",
+    "c33da0f8463d255bf08caf5df27f3f0d.txt": "f065633400bc3a8ffa186bfa64c3ad773109b46fc056b81a23f406b48e799817"
+  },
+  "revision": "5efcfdd6b7cc9c118d7f363ec4fef22c6faafcaed9279e370790425b1054205b"
+}
